@@ -89,3 +89,10 @@ Customer-Behavior-Analysis/
 
 ⭐ Give a Star!
     If you like this project, don’t forget to ⭐ the repository.
+
+
+
+## 🙏 Acknowledgement
+Some parts of this project are inspired by or adapted from:
+- https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
+
